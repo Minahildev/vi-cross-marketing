@@ -1,12 +1,12 @@
-import headerimage from "../../assets/headerimage.svg";
+import Headerimage from "../../assets/headerimage.svg";
 
-function header1() {
+function Header1() {
   return (
     <div className="bg-gray-200">
       <div className="relative max-w-full mx-auto">
         <img
           className="h-full w-full object-cover"
-          src={headerimage}
+          src={Headerimage}
           alt="image description"
         />
         <div className="absolute inset-0 flex flex-col items-center px-10 py-5 sm:px-12 md:px-16 lg:px-10">
@@ -25,5 +25,5 @@ function header1() {
   );
 }
 
-export default header1;
+export default Header1;
 

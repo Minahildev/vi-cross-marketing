@@ -1,8 +1,8 @@
-import Header from "./Our Solution.tsx/header"
-import Description from "./Our Solution.tsx/Description"
-import Cards from "./Our Solution.tsx/Cards"
-import Fsolutions from "./Our Solution.tsx/Fsolutions"
-import Ctime from "./Our Solution.tsx/Ctime"
+import Header from "./Our Solution/header"
+import Description from "./Our Solution/Description"
+import Cards from "./Our Solution/Cards"
+import Fsolutions from "./Our Solution/Fsolutions"
+import Ctime from "./Our Solution/Ctime"
 
 
 
