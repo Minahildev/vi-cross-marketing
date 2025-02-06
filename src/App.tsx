@@ -1,7 +1,7 @@
 import LandingPage from "./Components/LandingPage"
 import About from "./Components/About"
-import Navbar from "./Components/Landing Page/Navbar"
-import Footer from "./Components/Landing Page/Footer"
+import Navbar from "./Components/LandingPage/Navbar"
+import Footer from "./Components/LandingPage/Footer"
 import OurSolution from "./Components/OurSolution"
 import Contactus from "./Components/Contactus"
 

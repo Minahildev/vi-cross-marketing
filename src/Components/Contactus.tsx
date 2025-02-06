@@ -1,5 +1,5 @@
-import Header1 from "./Contact Us/Header1";
-import Form from "./Contact Us/Form"
+import Header1 from "./ContactUs/Header1";
+import Form from "./ContactUs/Form"
 
 
 
